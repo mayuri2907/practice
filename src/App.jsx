@@ -26,7 +26,7 @@ function App() {
           />
 
           <StudentCard
-            name="Rahul Sharma"
+            name="Nimisha Kumari"
             course="BCA"
             rollNo="102"
             marks="84%"
